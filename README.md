@@ -4,7 +4,7 @@ Today we're going to talk about Ajax, and how we can use jQuery to make Ajax req
 
 Ajax allows us to retreive data from a server or API without refreshing the entire page. Before Ajax, the entire page would need to refresh in order to retreive new data.
 
-Ajax has the helped web to become what it is today. Can you imagine making a facebook post and having it refresh the entire website?
+Ajax has helped the web to become what it is today. Can you imagine making a facebook post and having it refresh the entire website?
 
 If you look at the index.html of this app, we have three things. We have a form that takes in data, a 'get current users' section, and a 'recently added user' section.
 
